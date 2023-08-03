@@ -1,6 +1,6 @@
 const head = document.getElementById('head');
 const images = [
-  'images/head_1.jpg',
+  'Homeity/images/head_1.jpg',
   'images/head_2.jpg',
   '/images/head_3.jpg',
   'images/head_4.jpg',
