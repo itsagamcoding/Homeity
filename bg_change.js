@@ -1,11 +1,11 @@
 const head = document.getElementById('head');
 const images = [
-  '/images/head_1.jpg',
-  '/images/head_2.jpg',
+  'images/head_1.jpg',
+  'images/head_2.jpg',
   '/images/head_3.jpg',
-  '/images/head_4.jpg',
-  '/images/head_5.jpg',
-  '/images/head_6.jpg',
+  'images/head_4.jpg',
+  'images/head_5.jpg',
+  'images/head_6.jpg',
 
 ];
 
