@@ -20,4 +20,4 @@ function changeBackgroundImage() {
 changeBackgroundImage();
 
 // Seting an interval to change the background image every 5 seconds (3000 milliseconds)
-setInterval(changeBackgroundImage, 3000);
+setInterval(changeBackgroundImage, 7000);
